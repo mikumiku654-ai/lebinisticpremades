@@ -1,0 +1,31 @@
+{
+  "id": "barbarian-enlightenment",
+  "title": "Barbarian: Enlightenment (2024 Automation)",
+  "description": "Automates the Level 3 Barbarian Enlightenment ability for the dnd5e 2024 system. Automatically adds the drag-and-drop Enlightenment feature to your Items directory.",
+  "version": "1.1.0",
+  "authors": [
+    {
+      "name": "Custom Automation"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3.0.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "enlightenment.js"
+  ],
+  "manifest": "https://raw.githubusercontent.com/mikumiku654-ai/barbarian-enlightenment/main/module.json",
+  "download": "https://github.com/mikumiku654-ai/barbarian-enlightenment/archive/refs/heads/main.zip"
+}
