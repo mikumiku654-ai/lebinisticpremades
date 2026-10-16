@@ -26,6 +26,6 @@
   "esmodules": [
     "enlightenment.js"
   ],
-  "manifest": "https://raw.githubusercontent.com/mikumiku654-ai/barbarian-enlightenment/main/module.json",
-  "download": "https://github.com/mikumiku654-ai/barbarian-enlightenment/archive/refs/heads/main.zip"
+  "manifest": "https://raw.githubusercontent.com/mikumiku654-ai/lebinisticpremades/main/module.json",
+  "download": "https://github.com/mikumiku654-ai/lebinisticpremades/archive/refs/heads/main.zip"
 }
